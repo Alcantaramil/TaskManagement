@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+**/.vs/
+**/TestResults/
+**/CoverageReport/
+
+.env
+.git/
+.gitignore
+
+TaskManagement.Tests/
